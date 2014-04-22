@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FirstApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="init">Your total is 0</string>
+    <string name="bAddText">Add One</string>
+    <string name="bSubText">Subtract One</string>
+
+</resources>
